@@ -1,0 +1,18 @@
+<!Doctype HTML>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <style>
+    h1{
+      background-color: red;
+      background-position: center;
+      }
+  </style>
+  <title> Hello web </title>
+
+  </head>
+  <body>
+  <h1> About Me</h1>
+  <p style="color: red;"> hello, I like to watch movies and take dancing lesson</p>
+  </body>
+</html>
